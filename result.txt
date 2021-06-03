@@ -1,0 +1,4 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+martenm+    99  0.0  0.6 763864 42940 pts/0    Ssl+ May28   0:31 docker serve --address unix:///home/martenmellow/.docker/run/docker-cli-api.sock
+martenm+   131  0.0  0.0  10052  4976 pts/2    Ss   22:40   0:01 -bash
+martenm+  1151  0.0  0.0  10616  3224 pts/2    R+   23:24   0:00 ps ux -u martenmellow
